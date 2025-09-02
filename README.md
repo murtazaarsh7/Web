@@ -1,7 +1,7 @@
-# Web Project
+# ml model
 
 A brief introduction:  
-This repository showcases my **web development work**, including [mention technologies used—HTML, CSS, JavaScript, etc.].
+This repository showcases my **machine learning model**, including [mention technologies used—pandas, numpy, matplotlib, sckit-learn.].
 
 ---
 
